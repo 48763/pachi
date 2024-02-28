@@ -14,7 +14,7 @@
 | [CRぱちんこウルトラマンタロウ 暗黒の逆襲](./ko/CRぱちんこウルトラマンタロウ%20暗黒の逆襲/README.md) | 超人力霸王太郎 暗黑的逆襲 |
 | [e聖闘士星矢 超流星CliMAX349](./ko/e聖闘士星矢%20超流星CliMAX/README.md) | 聖鬥士星矢 超流星 |
 | [P真・北斗無双 第3章 ジャギの逆襲](./ko/P真・北斗無双%20第3章%20ジャギの逆襲/README.md) | 北斗無雙 賈基的逆襲|
-| [](./ko) | |
+| [P牙狼GOLD IMPACT](./ko/P牙狼GOLD%20IMPACT/README.md) | 牙狼GOLD IMPACT |
 
 ## パチスロ
 
